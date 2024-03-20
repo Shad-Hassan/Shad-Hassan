@@ -1,5 +1,4 @@
-<h1 align="center">Hello 👋, I'm Shad Hassan</h1>
-<h3 align="center">A passionate MERN stack developer from Dhaka, Bangladesh</h3>
+<h1 align="center">Hello 👋</h1>
 
 <div align="center" style="border-radius: 12px">
   <img src="/Capture.PNG" alt="Logo" width="100%" style="border-radius: 12px">
