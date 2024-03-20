@@ -5,6 +5,10 @@
   <img src="/Capture.PNG" alt="Logo" width="100%" style="border-radius: 12px">
 </div>
 
+<div align="center" style="border-radius: 12px">
+  <img src="/Featured.png" alt="Logo" width="100%" style="border-radius: 12px">
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shad-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="shad-hassan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shad-hassan" alt="shad-hassan" /></a> </p>
