@@ -1,13 +1,13 @@
-<h1 align="center">Hello 👋</h1>
+<h1 align="center">Hello from the other side of the Moon👋</h1>
 
 <div align="center" style="border-radius: 12px">
   <img src="/Capture.PNG" alt="Logo" width="100%" style="border-radius: 12px">
 </div>
 
 
-## My Best Projects
+## My Top 3 Projects
 
-Firebase user auth , framer motion animatiosn and backend using express and MongoDB  , is the common feature for all my full stack projects.Here are links to my best designed websites:
+Firebase user auth , framer motion animatiosn and backend using express and MongoDB  , is the common go-to features for all my full stack projects.Here are links to my Top 3 designed websites:
 
 <div align="center" style="border-radius: 12px">
   <img src="/BestWeb.PNG" alt="Logo" width="100%" style="border-radius: 12px">
