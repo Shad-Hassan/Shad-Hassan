@@ -4,6 +4,33 @@
   <img src="/Capture.PNG" alt="Logo" width="100%" style="border-radius: 12px">
 </div>
 
+
+## My Best Projects
+
+Firebase user auth , framer motion animatiosn and backend using express and MongoDB  , is the common feature for all my full stack projects.Here are links to my best designed websites:
+
+<div align="center" style="border-radius: 12px">
+  <img src="/BestWeb.PNG" alt="Logo" width="100%" style="border-radius: 12px">
+</div>
+
+### Karikr
+
+#### [@Karikr](https://sunny-marigold-ba8b37.netlify.app/)
+
+- A  full stack MERN project based for inventory managment and booking services & products for a textile company with sleek animations.
+
+### Thwip!
+
+#### [@Thwip!](https://jovial-dieffenbachia-572021.netlify.app/)
+
+- A  full stack MERN blog website , that allows readers to check varoius blogs from elite curators , and save their favourtie posts in wish list.
+
+### Krishibid Group
+
+#### [@Krishibid Group](https://krishi-bid-reloaded.netlify.app/)
+
+- Landing page for the company for Krishibid Group , with modern UX design trends and extremely prfoessional outlook
+
 <div align="center" style="border-radius: 12px">
   <img src="/Featured.png" alt="Logo" width="100%" style="border-radius: 12px">
 </div>
