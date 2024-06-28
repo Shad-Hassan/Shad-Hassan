@@ -1,4 +1,4 @@
-<h1 align="center">Hello from the other side of the Moon👋</h1>
+<h1 align="center">Behold The Rage Of The Firelands</h1>
 
 <div align="center" style="border-radius: 12px">
   <img src="/Capture.PNG" alt="Logo" width="100%" style="border-radius: 12px">
